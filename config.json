@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvncrypt",
+        "uuid": 8339520,
+        "checksum": "cmc7jk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
